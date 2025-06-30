@@ -37,7 +37,7 @@ const Hero = () => {
           onEnded={handleVideoEnd}
         />
         <div class="flex text-center items-end justify-center w-full h-full z-20">
-          <div class="flex flex-col z-10 text-white w-full leading-6 mb-[5vh] max-xss:leading-2 xss:max-xs:leading-3 2xl:mb-[8rem] 2xl:mr-[75rem] xl:max-2xl:mb-[6rem] xl:max-2xl:mr-[45rem] lg:max-xl:mb-[3rem] 2xl:max-3xl:mr-[60rem]">
+          <div class="flex flex-col z-10 text-white w-full leading-6 mb-[5vh] max-xss:leading-2 xss:max-xs:leading-3 2xl:mb-[8rem] 2xl:mr-[75rem] xl:max-2xl:mb-[6rem] xl:max-2xl:mr-[45rem] lg:max-xl:mb-[3rem]">
             <h1 class="font-playfairdisplay text-[36px] drop-shadow-lg max-xss:text-[25px] xss:max-xs:text-[30px]">
               Toushi Industries
             </h1>
