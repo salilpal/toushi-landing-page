@@ -18,6 +18,11 @@
   src: url("../src/assets/fonts/Delius-Regular.ttf");
 }
 
+@font-face {
+  font-family: NotoSansSunuwar;
+  src: url("../src/assets/fonts/NotoSansSunuwar-Regular.ttf");
+}
+
 @import "tailwindcss";
 
 @theme {
@@ -25,6 +30,7 @@
   --font-playfairdisplay: PlayfairDisplay, "serif";
   --font-tinos: Tinos, "serif";
   --font-delius: Delius, "sans-serif";
+  --font-notosanssunuwar: NotoSansSunuwar, "sans-serif";
   --breakpoint-xss: 391px;
   --breakpoint-xs: 451px;
   --breakpoint-3xl: 1600px;
